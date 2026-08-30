@@ -1,0 +1,23 @@
+{
+  "name": "playwright-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debajyoti-saha2002/ecommerce-automation-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/debajyoti-saha2002/ecommerce-automation-project/issues"
+  },
+  "homepage": "https://github.com/debajyoti-saha2002/ecommerce-automation-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
+  }
+}
