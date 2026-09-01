@@ -1,0 +1,19 @@
+
+{
+  "invalid_user_email": {
+    "first_name": "Test123",
+    "last_name": "Test",
+    "gender": "male",
+    "email": "Testyop.com",
+    "password": "Test@2002",
+    "confirm_password": "Test@2002"
+  },
+  "invalid_user_password": {
+    "first_name": "Test123",
+    "last_name": "Test",
+    "gender": "male",
+    "email": "Dem@gmail.com",
+    "password": "2002",
+    "confirm_password": "2002"
+  }
+}
